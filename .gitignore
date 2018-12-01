@@ -5,3 +5,4 @@ block_list.txt
 detect_register.py
 female.model
 psw.json
+register.bat
