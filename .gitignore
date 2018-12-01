@@ -1,0 +1,7 @@
+__pycache__/
+bak/
+log/
+block_list.txt
+detect_register.py
+female.model
+psw.json
